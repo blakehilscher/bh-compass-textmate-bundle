@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.bh-field.bh-information
+	.bh-describe ${1:Title}
+	.bh-request${2:= ${3:$1}}</string>
+	<key>name</key>
+	<string>slim.bh-field.bh-information</string>
+	<key>scope</key>
+	<string>text.slim</string>
+	<key>tabTrigger</key>
+	<string>bhi</string>
+	<key>uuid</key>
+	<string>9094EA23-994F-46AE-8626-D01A56B2BE10</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>bh-compass</string>
+	<key>ordering</key>
+	<array>
+		<string>751B1065-8F86-430B-93D9-7EEAA9C8D3A7</string>
+		<string>D1E1B173-59D1-4A30-9695-39CB4089064C</string>
+		<string>2BB49AB7-C018-416D-82D6-E93056A72282</string>
+		<string>9C5B2A2E-85EB-4347-916E-7427C8368FAA</string>
+		<string>4D606173-2FD0-4DF0-A8DF-325E0481109F</string>
+		<string>BBEB6F59-36E6-4DBE-AD31-EFF1279B80BB</string>
+		<string>5D85ED95-C6A8-40A3-9754-63DADC5B300F</string>
+		<string>51085F62-F789-465A-AF92-A22E76E6487B</string>
+		<string>58CE466C-423A-41D6-9148-D81051413001</string>
+		<string>4308189A-978C-4C62-9C82-573E74F165FD</string>
+		<string>9A29EC9B-B972-4C22-A9E2-637C23DFA9AB</string>
+		<string>5A89F497-CED0-4B37-8F0F-C02B701FA98D</string>
+		<string>9094EA23-994F-46AE-8626-D01A56B2BE10</string>
+		<string>FCE0ED6D-3D49-4C50-A5CB-7A9CDE367BE9</string>
+		<string>7F733F9B-17DA-4A32-8392-63C070B90690</string>
+		<string>E9FE9B01-7120-4FF7-B6B6-2F7821B32D21</string>
+		<string>F12F95DE-E161-4DEF-9A8E-DB2174D59DEE</string>
+	</array>
+	<key>uuid</key>
+	<string>59BE1B4F-31B4-44D0-9F8F-2DDFDB5CD112</string>
+</dict>
+</plist>

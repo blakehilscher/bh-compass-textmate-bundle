@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.bh-field.bh-textarea
+	.bh-describe= f.label :${1:tag}
+	.bh-request= f.text_area :$1</string>
+	<key>name</key>
+	<string>slim.bh-field.bh-textarea</string>
+	<key>scope</key>
+	<string>text.slim</string>
+	<key>tabTrigger</key>
+	<string>bhta</string>
+	<key>uuid</key>
+	<string>9A29EC9B-B972-4C22-A9E2-637C23DFA9AB</string>
+</dict>
+</plist>

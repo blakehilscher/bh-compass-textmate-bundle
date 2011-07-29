@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="bh-field bh-select"&gt;
+  &lt;div class="bh-describe"&gt;&lt;%= f.label :${1:tag} %&gt;&lt;/div&gt;
+  &lt;div class="bh-request"&gt;&lt;%= f.select :$1 ${2:, options_for_select($3)} %&gt;&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>.bh-field.bh-select</string>
+	<key>scope</key>
+	<string>text.html.ruby, text.haml</string>
+	<key>tabTrigger</key>
+	<string>bhs</string>
+	<key>uuid</key>
+	<string>51085F62-F789-465A-AF92-A22E76E6487B</string>
+</dict>
+</plist>

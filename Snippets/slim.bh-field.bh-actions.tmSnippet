@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.bh-field.bh-actions
+	.bh-describe
+	.bh-request= f.submit "${1:Sign Up}"</string>
+	<key>name</key>
+	<string>slim.bh-field.bh-actions</string>
+	<key>scope</key>
+	<string>text.slim</string>
+	<key>tabTrigger</key>
+	<string>bha</string>
+	<key>uuid</key>
+	<string>58CE466C-423A-41D6-9148-D81051413001</string>
+</dict>
+</plist>

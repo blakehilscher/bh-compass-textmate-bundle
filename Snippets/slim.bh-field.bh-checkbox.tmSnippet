@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.bh-field.bh-checkbox
+	.bh-request= f.check_box :${1:tag}
+	.bh-describe= f.label :$1 ${3:, "${2:Tag name}"}</string>
+	<key>name</key>
+	<string>slim.bh-field.bh-checkbox</string>
+	<key>scope</key>
+	<string>text.slim</string>
+	<key>tabTrigger</key>
+	<string>bhcb</string>
+	<key>uuid</key>
+	<string>7F733F9B-17DA-4A32-8392-63C070B90690</string>
+</dict>
+</plist>
