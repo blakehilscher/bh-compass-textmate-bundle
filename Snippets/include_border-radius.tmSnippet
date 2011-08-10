@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include background(${1:linear-gradient(#${2:ddd}, #${3:eee})});$4</string>
+	<string>@include border-radius(${1:10}px);$2</string>
 	<key>name</key>
-	<string>include_background_linear-gradient</string>
+	<string>include_border-radius</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>ilg</string>
+	<string>ibr</string>
 	<key>uuid</key>
-	<string>1E74B813-D1D0-4CC4-B60D-EBC6A5F352DF</string>
+	<string>BD9BE54D-CBD2-4B15-B8F0-DE6075741B4D</string>
 </dict>
 </plist>
