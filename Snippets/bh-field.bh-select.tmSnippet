@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>.bh-field.bh-select</string>
 	<key>scope</key>
-	<string>text.html.ruby, text.haml</string>
+	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>bhs</string>
 	<key>uuid</key>

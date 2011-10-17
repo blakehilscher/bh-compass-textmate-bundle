@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>slim.bh-field.bh-textfield</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
 	<string>bhtf</string>
 	<key>uuid</key>

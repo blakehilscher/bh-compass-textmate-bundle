@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>.bh-field.bh-filefield</string>
 	<key>scope</key>
-	<string>text.html.ruby, text.haml</string>
+	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>bhff</string>
 	<key>uuid</key>

@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>.bh-field.bh-header</string>
 	<key>scope</key>
-	<string>text.html.ruby, text.haml</string>
+	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>bhh</string>
 	<key>uuid</key>

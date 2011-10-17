@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>.bh-field.bh-checkbox</string>
 	<key>scope</key>
-	<string>text.html.ruby, text.haml</string>
+	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>bhcb</string>
 	<key>uuid</key>
