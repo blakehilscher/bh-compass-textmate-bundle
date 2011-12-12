@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include list-reset;</string>
+	<string>@include box-shadow(${2:#aaa} ${3:2px} ${4:2px} ${5:10px});$1</string>
 	<key>name</key>
-	<string>include_list-reset</string>
+	<string>include-box-shadow</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>ilr</string>
+	<string>ibs</string>
 	<key>uuid</key>
-	<string>DA8522C1-4F42-4323-B1E6-97E2B3F4DA7B</string>
+	<string>3D34A826-C983-4C88-852D-96B2B28A59E1</string>
 </dict>
 </plist>
