@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="field field-password_field"&gt;
+	<string>&lt;div class="field field-email_field"&gt;
   &lt;div class="field-describe"&gt;&lt;%= f.label :${1:tag} %&gt;&lt;/div&gt;
-  &lt;div class="field-request"&gt;&lt;%= f.password_field :$1 %&gt;&lt;/div&gt;
+  &lt;div class="field-request"&gt;&lt;%= f.email_field :$1 %&gt;&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>.field.field-password</string>
+	<string>.field.field-email_field</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>rhp</string>
+	<string>rhe</string>
 	<key>uuid</key>
 	<string>D1E1B173-59D1-4A30-9695-39CB4089064C</string>
 </dict>

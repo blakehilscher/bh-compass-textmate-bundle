@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
-	<string>rhcb</string>
+	<string>rhc</string>
 	<key>uuid</key>
 	<string>7F733F9B-17DA-4A32-8392-63C070B90690</string>
 </dict>

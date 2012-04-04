@@ -12,7 +12,7 @@
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>rhcb</string>
+	<string>rhc</string>
 	<key>uuid</key>
 	<string>BBEB6F59-36E6-4DBE-AD31-EFF1279B80BB</string>
 </dict>
