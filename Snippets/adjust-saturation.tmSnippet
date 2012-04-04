@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>adjust-saturation(${1:color}, ${2:15});</string>
+	<key>name</key>
+	<string>adjust-saturation</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>as</string>
+	<key>uuid</key>
+	<string>43790FA0-DF93-46A9-8BFD-7A6D31DFF6C0</string>
+</dict>
+</plist>
