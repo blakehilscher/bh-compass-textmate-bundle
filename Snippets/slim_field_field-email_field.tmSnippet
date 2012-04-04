@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.field.field-email_field
+	.field-describe= f.label :${1:tag}
+	.field-request= f.email_field :$1</string>
+	<key>name</key>
+	<string>slim.field.field-email_field</string>
+	<key>scope</key>
+	<string>text.slim, text.haml</string>
+	<key>tabTrigger</key>
+	<string>rhe</string>
+	<key>uuid</key>
+	<string>BA5BE2A3-A768-4792-B401-F624A7AB27A2</string>
+</dict>
+</plist>
