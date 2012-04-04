@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="bh-field bh-passwordfield"&gt;
-  &lt;div class="bh-describe"&gt;&lt;%= f.label :${1:tag} %&gt;&lt;/div&gt;
-  &lt;div class="bh-request"&gt;&lt;%= f.password_field :$1 %&gt;&lt;/div&gt;
+	<string>&lt;div class="field field-textarea"&gt;
+  &lt;div class="field-describe"&gt;&lt;%= f.label :${1:tag} %&gt;&lt;/div&gt;
+  &lt;div class="field-request"&gt;&lt;%= f.text_area :$1 %&gt;&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>.bh-field.bh-password</string>
+	<string>.field.field-textarea</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>bhpf</string>
+	<string>rhta</string>
 	<key>uuid</key>
-	<string>D1E1B173-59D1-4A30-9695-39CB4089064C</string>
+	<string>2BB49AB7-C018-416D-82D6-E93056A72282</string>
 </dict>
 </plist>

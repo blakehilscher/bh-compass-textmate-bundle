@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="bh-field bh-select"&gt;
-  &lt;div class="bh-describe"&gt;&lt;%= f.label :${1:tag} %&gt;&lt;/div&gt;
-  &lt;div class="bh-request"&gt;&lt;%= f.select :$1 ${2:, options_for_select($3)} %&gt;&lt;/div&gt;
+	<string>&lt;div class="field field-select"&gt;
+  &lt;div class="field-describe"&gt;&lt;%= f.label :${1:tag} %&gt;&lt;/div&gt;
+  &lt;div class="field-request"&gt;&lt;%= f.select :$1 ${2:, options_for_select($3)} %&gt;&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>.bh-field.bh-select</string>
+	<string>.field.field-select</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>bhs</string>
+	<string>rhs</string>
 	<key>uuid</key>
 	<string>51085F62-F789-465A-AF92-A22E76E6487B</string>
 </dict>

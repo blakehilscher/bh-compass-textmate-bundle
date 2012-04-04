@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.bh-field.bh-select
-	.bh-describe= f.label :${1:tag}
-	.bh-request= f.select :$1 ${2:, options_for_select($3)}</string>
+	<string>.field.field-textarea
+	.field-describe= f.label :${1:tag}
+	.field-request= f.text_area :$1</string>
 	<key>name</key>
-	<string>slim.bh-field.bh-select</string>
+	<string>slim.field.field-textarea</string>
 	<key>scope</key>
 	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
-	<string>bhs</string>
+	<string>rhta</string>
 	<key>uuid</key>
-	<string>F12F95DE-E161-4DEF-9A8E-DB2174D59DEE</string>
+	<string>9A29EC9B-B972-4C22-A9E2-637C23DFA9AB</string>
 </dict>
 </plist>

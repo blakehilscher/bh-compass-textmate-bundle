@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="bh-field bh-header"&gt;
-  &lt;div class="bh-describe"&gt;&lt;%= f.label :${1:tag}${2:, "${3:Feature Image}"} %&gt;&lt;/div&gt;
+	<string>&lt;div class="field field-header"&gt;
+  &lt;div class="field-describe"&gt;&lt;%= f.label :${1:tag}${2:, "${3:Feature Image}"} %&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 </string>
 	<key>name</key>
-	<string>.bh-field.bh-header</string>
+	<string>.field.field-header</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>bhh</string>
+	<string>rhh</string>
 	<key>uuid</key>
 	<string>4D606173-2FD0-4DF0-A8DF-325E0481109F</string>
 </dict>

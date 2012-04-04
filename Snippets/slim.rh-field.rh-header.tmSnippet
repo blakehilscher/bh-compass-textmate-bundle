@@ -3,16 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.bh-field.bh-checkbox
-	.bh-request= f.check_box :${1:tag}
-	.bh-describe= f.label :$1 ${3:, "${2:Tag name}"}</string>
+	<string>.field.field-header
+	.field-describe
+	= f.label :${1:tag}${2:, "${3:Feature Image}"}
+
+</string>
 	<key>name</key>
-	<string>slim.bh-field.bh-checkbox</string>
+	<string>slim.field.field-header</string>
 	<key>scope</key>
 	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
-	<string>bhcb</string>
+	<string>rhh</string>
 	<key>uuid</key>
-	<string>7F733F9B-17DA-4A32-8392-63C070B90690</string>
+	<string>FCE0ED6D-3D49-4C50-A5CB-7A9CDE367BE9</string>
 </dict>
 </plist>

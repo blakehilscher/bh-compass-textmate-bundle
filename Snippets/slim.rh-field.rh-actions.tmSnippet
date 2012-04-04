@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.bh-field.bh-textfield
-	.bh-describe= f.label :${1:tag}
-	.bh-request= f.text_field :$1</string>
+	<string>.field.field-actions
+	.field-describe
+	.field-request= f.submit "${1:Sign Up}"</string>
 	<key>name</key>
-	<string>slim.bh-field.bh-textfield</string>
+	<string>slim.field.field-actions</string>
 	<key>scope</key>
 	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
-	<string>bhtf</string>
+	<string>rha</string>
 	<key>uuid</key>
-	<string>5A89F497-CED0-4B37-8F0F-C02B701FA98D</string>
+	<string>58CE466C-423A-41D6-9148-D81051413001</string>
 </dict>
 </plist>

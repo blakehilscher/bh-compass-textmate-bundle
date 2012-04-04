@@ -3,18 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.bh-field.bh-header
-	.bh-describe
-	= f.label :${1:tag}${2:, "${3:Feature Image}"}
-
-</string>
+	<string>.field.field-select
+	.field-describe= f.label :${1:tag}
+	.field-request= f.select :$1 ${2:, options_for_select($3)}</string>
 	<key>name</key>
-	<string>slim.bh-field.bh-header</string>
+	<string>slim.field.field-select</string>
 	<key>scope</key>
 	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
-	<string>bhh</string>
+	<string>rhs</string>
 	<key>uuid</key>
-	<string>FCE0ED6D-3D49-4C50-A5CB-7A9CDE367BE9</string>
+	<string>F12F95DE-E161-4DEF-9A8E-DB2174D59DEE</string>
 </dict>
 </plist>

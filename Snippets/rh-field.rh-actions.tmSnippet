@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div class="bh-field bh-actions"&gt;
-  &lt;div class="bh-describe"&gt;&lt;/div&gt;
-  &lt;div class="bh-request"&gt;&lt;%= f.submit "${1:Sign Up}" %&gt;&lt;/div&gt;
+	<string>&lt;div class="field field-actions"&gt;
+  &lt;div class="field-describe"&gt;&lt;/div&gt;
+  &lt;div class="field-request"&gt;&lt;%= f.submit "${1:Sign Up}" %&gt;&lt;/div&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>.bh-field.bh-actions</string>
+	<string>.field.field-actions</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>bha</string>
+	<string>rha</string>
 	<key>uuid</key>
 	<string>751B1065-8F86-430B-93D9-7EEAA9C8D3A7</string>
 </dict>

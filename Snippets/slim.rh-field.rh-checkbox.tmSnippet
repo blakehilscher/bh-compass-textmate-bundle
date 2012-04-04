@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.bh-field.bh-information
-	.bh-describe ${1:Title}
-	.bh-request${2:= ${3:$1}}</string>
+	<string>.field.field-checkbox
+	.field-request= f.check_box :${1:tag}
+	.field-describe= f.label :$1 ${3:, "${2:Tag name}"}</string>
 	<key>name</key>
-	<string>slim.bh-field.bh-information</string>
+	<string>slim.field.field-checkbox</string>
 	<key>scope</key>
 	<string>text.slim, text.haml</string>
 	<key>tabTrigger</key>
-	<string>bhi</string>
+	<string>rhcb</string>
 	<key>uuid</key>
-	<string>9094EA23-994F-46AE-8626-D01A56B2BE10</string>
+	<string>7F733F9B-17DA-4A32-8392-63C070B90690</string>
 </dict>
 </plist>
