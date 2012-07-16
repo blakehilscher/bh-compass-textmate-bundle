@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include border-radius(${1:10}px);$2</string>
+	<string>@include border-radius(${1:10}px ${2:10}px ${3:10}px ${4:10}px);
+$5</string>
 	<key>name</key>
-	<string>include_border-radius</string>
+	<string>@include border-radius</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

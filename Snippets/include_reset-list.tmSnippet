@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@include list-reset;</string>
 	<key>name</key>
-	<string>include_list-reset</string>
+	<string>@include list-reset</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

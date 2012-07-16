@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include border-top-radius(${1:10}px);$2</string>
+	<string>@include opacity(${1:0.7});
+$2</string>
 	<key>name</key>
-	<string>@include border-radius-top</string>
+	<string>@include opacity</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>ibrt</string>
+	<string>iop</string>
 	<key>uuid</key>
-	<string>97962053-A7A2-4D14-A756-4C59DB9ABF84</string>
+	<string>5920A9FC-DF87-4F35-8CA6-0F22C674087E</string>
 </dict>
 </plist>
